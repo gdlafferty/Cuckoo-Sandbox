@@ -2,9 +2,7 @@
 Notes on the process of installing and using Cuckoo Sandbox
 
 # References
-[Setting up Cuckoo Sandbox v2.0.7 on Ubuntu 18.04 - Part 1](https://www.youtube.com/watch?v=QlQS4gk_lFU)
-
-[Setting Up Cuckoo Sandbox v2.0.7 on Ubuntu 18.04.4 - Part 2](https://www.youtube.com/watch?v=FsF56772ZvU)
+[Alfaiacomlinux VMware ESXi](https://alfaiacomlinux.blogspot.com/2017/05/cuckoo-com-vmware-esxi.html)
 
 [Cuckoo on VMware ESXi](https://alfaiacomlinux.blogspot.com/2017/05/cuckoo-com-vmware-esxi.html)
 
