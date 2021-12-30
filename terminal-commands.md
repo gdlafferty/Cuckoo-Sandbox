@@ -137,3 +137,8 @@ sudo python setup.py install
 sudo pip install -U pip setuptools
 sudo pip install -U cuckoo
 ```
+
+
+sudo pip2 install -U cuckoo==2.0.7
+
+git clone https://github.com/cuckoosandbox/cuckoo.git
