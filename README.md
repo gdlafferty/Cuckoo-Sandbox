@@ -1,5 +1,5 @@
 # Cuckoo-Sandbox
-Notes on the process of installing and using Cuckoo Sandbox
+Notes and troubleshooting steps on the process of installing and using Cuckoo Sandbox
 
 # References
 [Alfaiacomlinux VMware ESXi](https://alfaiacomlinux.blogspot.com/2017/05/cuckoo-com-vmware-esxi.html)
