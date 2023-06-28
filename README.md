@@ -1,12 +1,15 @@
 # Cuckoo-Sandbox
+
 Notes and troubleshooting steps on the process of installing and using Cuckoo Sandbox
 
-# References
+## References
+
 [Alfaiacomlinux VMware ESXi](https://alfaiacomlinux.blogspot.com/2017/05/cuckoo-com-vmware-esxi.html)
 
 [Cuckoo on VMware ESXi](https://alfaiacomlinux.blogspot.com/2017/05/cuckoo-com-vmware-esxi.html)
 
-# Information
+## Information
+
 - Running ESXi v6.7 Enterprise Edition
 - Ubuntu 18.04
 - Network interfaces:
